@@ -1,0 +1,14 @@
+.mainContainer {
+  height: 100vh;
+
+  .contentContainer {
+    padding-top: 72px;
+    padding-bottom: 16px;
+    min-height: calc(100% - 100px);
+  }
+
+  .footerContainer {
+    background-color: #eeeeee;
+    height: 100px;
+  }
+}
